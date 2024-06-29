@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science and engineering (SCSE) at BUAA 
 - 💞️ I’m looking to collaborate on computer architecture
-- 📫 How to reach me : Wechat:DQR_BUAA_2023 or e-mail: 22373362@buaa.edu.cn
+- 📫 How to reach me : Wechat:sudo_dqr or e-mail: 22373362@buaa.edu.cn
 
 ![sudo-dqr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-dqr&show_icons=true&theme=radical)]
   

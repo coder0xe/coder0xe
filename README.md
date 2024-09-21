@@ -3,16 +3,12 @@
 - 🌱 I’m currently learning computer science and engineering (SCSE) at BUAA 
 - 💞️ I’m looking to collaborate on computer architecture
 - 📫 How to reach me : Wechat:sudo_dqr or e-mail: 22373362@buaa.edu.cn
-
-![sudo-dqr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-dqr&show_icons=true&theme=radical)]
   
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sudo-dqr" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-dqr&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-sudo-dqr.vercel.app/graph?username=sudo-dqr&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-dqr" />

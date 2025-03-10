@@ -15,27 +15,27 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sudo-dqr&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=coder0xe&show_icons=true&hide_border=true&line_height=24&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=sudo-dqr&show_icons=true&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coder0xe&show_icons=true&hide_border=true&line_height=24" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-dqr&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0xe&layout=compact&hide_border=true&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-dqr&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0xe&layout=compact&hide_border=true&langs_count=8" />
 </picture>
   </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-dqr&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=coder0xe&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=sudo-dqr&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=coder0xe&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->

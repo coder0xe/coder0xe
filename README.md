@@ -7,7 +7,7 @@
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20sudo-dqr&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20coder0xe&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -39,7 +39,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,rust,java,md,latex,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,rust,java,python,md,latex&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->

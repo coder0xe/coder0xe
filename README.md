@@ -13,22 +13,6 @@
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
 <p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=coder0xe&show_icons=true&hide_border=true&line_height=24&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=coder0xe&show_icons=true&hide_border=true&line_height=24" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0xe&layout=compact&hide_border=true&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0xe&layout=compact&hide_border=true&langs_count=8" />
-</picture>
-  </p>
-<p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=coder0xe&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>

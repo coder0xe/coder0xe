@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudo-dqr
+- 👋 Hi, I’m @coder0xe
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science and engineering (SCSE) at BUAA 
 - 💞️ I’m looking to collaborate on computer architecture
